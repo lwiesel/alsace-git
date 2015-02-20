@@ -1,0 +1,10 @@
+[alias]
+    achoute = add
+    schlouck = cherry-pick
+    pranche = branch
+    achso = log
+    hopla = commit
+    pouss = push
+    poule = pull
+    merche = merge
+    tak = tag
