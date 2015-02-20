@@ -1,10 +1,16 @@
 [alias]
     achoute = add
-    schlouck = cherry-pick
-    pranche = branch
     achso = log
+    bisamme = pull
+    bisball = rm
+    ganz-gut= push --force
+    hilfe = help
     hopla = commit
-    pouss = push
-    poule = pull
+    hopla-geiss = push
+    kopfertami = stash
     merche = merge
-    tak = tag
+    pranche = branch
+    schisser = blame
+    schluck = cherry-pick
+    tack = tag
+    was = status
